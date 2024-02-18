@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Saira Condensed';
+    src: url(/assets/fonts/SairaCondensed-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    src: url(/assets/fonts/Sarabun-Regular.ttf);
+}
